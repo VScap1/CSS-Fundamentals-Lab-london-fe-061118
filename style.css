@@ -18,6 +18,8 @@ p #featuredproperty {
   display: block;
   float: left;
 }
-#details
+#details div {
+  width: 25%;
+}
 
 
