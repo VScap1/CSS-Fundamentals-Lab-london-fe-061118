@@ -23,5 +23,9 @@ figcaption {
   float: left;
   width: 25%;
 }
+div {
+  background-color: blue;
+  width: 25%;
+}
 
 
