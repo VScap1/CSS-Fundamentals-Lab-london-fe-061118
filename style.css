@@ -13,6 +13,7 @@ figcaption {
 }
 #featuredproperty p  {
   width: 80px;
+  color: black;
 }
  section #details {
   display: block;
