@@ -14,7 +14,7 @@ figcaption {
 p #featuredproperty {
   width: 800px;
 }
-#details {
+ section #details {
   display: block;
   float: left;
 }
