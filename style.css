@@ -19,6 +19,7 @@ p #featuredproperty {
   float: left;
 }
 #details div {
+  float: left;
   width: 25%;
 }
 
