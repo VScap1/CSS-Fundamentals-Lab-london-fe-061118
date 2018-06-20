@@ -11,7 +11,7 @@ figcaption {
   font-size: 8px;
   text-align: center;
 }
-#featuredproperty p  {
+.paragraph  {
   width: 80px;
   color: black;
 }
